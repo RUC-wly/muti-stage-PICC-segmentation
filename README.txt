@@ -1,6 +1,7 @@
 MAG-Net is an implementation of the“MAG-Net: Multi-stage Attention-Guided Learning for  Peripherally Inserted Central Catheter (PICC) segmentation in Chest X-rays. 
 This respository contains the network definitions and other necessary codes. 
 
+
 Installation:
 	python 3.6
 	numpy
